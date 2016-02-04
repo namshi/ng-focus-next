@@ -1,0 +1,28 @@
+{
+  "name": "ng-focus-next",
+  "homepage": "https://github.com:namshi/ng-focus-next",
+  "authors": [
+    "Hossam Fares"
+  ],
+  "description": "AngularJS directive to focus next input element",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:namshi/ng-focus-next.git"
+  },
+  "main": "focusNext.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "focus",
+    "directive",
+    "focus-next"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
